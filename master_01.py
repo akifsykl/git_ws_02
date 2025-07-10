@@ -1,0 +1,1 @@
+% master icin yorum satiri
