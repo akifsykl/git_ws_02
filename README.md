@@ -15,4 +15,4 @@ deneme **deneme _deneme_**
 
 [other repo](https://github.com/akifsykl/git_workingfiles) 
 
-![git logo] (https://images.app.goo.gl/xbmskZX6EC58qNTr7)
+![git logo] (https://images.app.goo.gl/mAq9abtVBrYY3GxN6)
