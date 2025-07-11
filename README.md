@@ -17,4 +17,4 @@ deneme **deneme _deneme_**
 
 [other repo](https://github.com/akifsykl/git_workingfiles) 
 
-![git logo] (https://db0dce98.rocketcdn.me/en/files/2024/04/git.jpg)
+! [git logo] (https://db0dce98.rocketcdn.me/en/files/2024/04/git.jpg)
