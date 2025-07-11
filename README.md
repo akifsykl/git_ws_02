@@ -9,7 +9,7 @@
 
 deneme **deneme _deneme_**
 
-' echo print(a+b); '
+` print(a+b) `
 
 > deneme
 
